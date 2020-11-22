@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/candyshop/static/css/main.0aad9656.chunk.css",
+    "main.js": "/candyshop/static/js/main.e20ba0f5.chunk.js",
+    "main.js.map": "/candyshop/static/js/main.e20ba0f5.chunk.js.map",
+    "runtime-main.js": "/candyshop/static/js/runtime-main.ed6c1f0b.js",
+    "runtime-main.js.map": "/candyshop/static/js/runtime-main.ed6c1f0b.js.map",
+    "static/js/2.7852d79e.chunk.js": "/candyshop/static/js/2.7852d79e.chunk.js",
+    "static/js/2.7852d79e.chunk.js.map": "/candyshop/static/js/2.7852d79e.chunk.js.map",
+    "index.html": "/candyshop/index.html",
+    "precache-manifest.9f8fbce10863fc2589b0124baa68911a.js": "/candyshop/precache-manifest.9f8fbce10863fc2589b0124baa68911a.js",
+    "service-worker.js": "/candyshop/service-worker.js",
+    "static/css/main.0aad9656.chunk.css.map": "/candyshop/static/css/main.0aad9656.chunk.css.map",
+    "static/js/2.7852d79e.chunk.js.LICENSE.txt": "/candyshop/static/js/2.7852d79e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/candyshop/static/media/cake-woman--tablet.0fdb0436.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed6c1f0b.js",
+    "static/js/2.7852d79e.chunk.js",
+    "static/css/main.0aad9656.chunk.css",
+    "static/js/main.e20ba0f5.chunk.js"
+  ]
+}
