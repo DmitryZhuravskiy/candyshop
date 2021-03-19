@@ -7,3 +7,21 @@
 
 <img src="https://github.com/DmitryZhuravskiy/cakes/raw/Branch-2018/public/img/cakes--1.jpg "/>
 <br /><br />
+<img src="https://github.com/DmitryZhuravskiy/cakes/raw/Branch-2018/public/img/cakes--2.jpg "/>
+<br /><br />
+<img src="https://github.com/DmitryZhuravskiy/cakes/raw/Branch-2018/public/img/cakes--3.jpg "/>
+<br /><br />
+<img src="https://github.com/DmitryZhuravskiy/cakes/raw/Branch-2018/public/img/cakes--4.jpg "/>
+<br /><br />
+<img src="https://github.com/DmitryZhuravskiy/cakes/raw/Branch-2018/public/img/cakes--5.jpg "/>
+<br /><br />
+<img src="https://github.com/DmitryZhuravskiy/cakes/raw/Branch-2018/public/img/cakes--6.jpg "/>
+<br /><br />
+<img src="https://github.com/DmitryZhuravskiy/cakes/raw/Branch-2018/public/img/cakes--7.jpg "/>
+<br /><br />
+<img src="https://github.com/DmitryZhuravskiy/cakes/raw/Branch-2018/public/img/cakes--8.jpg "/>
+<br /><br />
+<img src="https://github.com/DmitryZhuravskiy/cakes/raw/Branch-2018/public/img/cakes--9.jpg "/>
+<br /><br />
+<img src="https://github.com/DmitryZhuravskiy/cakes/raw/Branch-2018/public/img/cakes--10.jpg "/>
+<br /><br />
