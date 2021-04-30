@@ -1,5 +1,5 @@
 <h1><b>Candyshop</b></h1>
-Презентационная версия - https://dmitryzhuravskiy.github.io/candyshop/ 
+Презентационная версия - https://dmitryzhuravskiy.github.io/candyshop/ ;
 <br /><br />
 
 <h2><b>Руководство по запуску</b></h2>
